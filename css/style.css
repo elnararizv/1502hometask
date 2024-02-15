@@ -1,0 +1,67 @@
+body{
+    margin:12px 25px 0 25px ;
+}
+nav a{
+    margin-left: 20px;
+    font-size: 18px;
+    color: rgb(28,107,228);
+    text-decoration: none;
+}
+nav span{
+    color:rgb(255,85,26);
+}
+nav{
+    border-bottom: 0.1px solid rgb(206, 205, 205);
+}
+#brands img{
+    margin-left: 20px;
+}
+h2{
+    text-align: center;
+    color:rgb(255,85,26);
+}
+footer{
+    border-top: 0.1px solid rgb(206, 205, 205) ;
+    padding-top: 10px;
+}
+table th{
+    font-size: 20px;
+    color: rgb(28,107,228);
+    font-weight: lighter;
+}
+table td{
+   padding: 10px 20px;
+
+}
+#products{
+    border: 1px solid darkcyan;
+    border-radius: 8px;
+    padding: 8px 0;
+}
+#signup{
+    font-size: 18px;
+    background-color:darkcyan;
+    width: 30%;
+    margin: 30px 35%;
+    padding: 30px 10px;
+    border: 0.1px solid rgb(1, 66, 66) ;
+    border-radius: 20px;
+    box-shadow: 11px 5px 17px 1px;
+}
+#signup input{
+  padding:8px 0px;
+  border-radius: 7px;
+  border: none;
+}
+#signup button{
+    border-radius: 7px;
+    border: none;
+    width: 30%;
+    padding: 10px 5px;
+    margin: 2px 35%;
+    color: white;
+    background-color: rgb(179, 2, 2);
+}
+.name{
+    width: 33%;
+}
